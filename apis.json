@@ -1,0 +1,58 @@
+{
+    "name": "Panoptix",
+    "description": "Johnson Controls is a global diversified technology and multi industrial leader serving a wide range of customers in more than 150 countries.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/236-panoptix.jpg",
+    "tags": [
+        "buildings",
+        "efficiency",
+        "have api",
+        "shopping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/panoptix\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Panoptix",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/236-panoptix.jpg",
+            "humanURL": "https:\/\/developer.panoptix.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/panoptix-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/whatspossible.johnsoncontrols.com\/community\/panoptix-developer-center\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/whatspossible.johnsoncontrols.com\/community\/feeds?community=2054"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/johnson-controls"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/panoptix"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/johnsoncontrols"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/developer.panoptix.com\/"
+        }
+    ]
+}
